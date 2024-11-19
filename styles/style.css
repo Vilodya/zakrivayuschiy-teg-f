@@ -199,7 +199,6 @@
 .card__buttons {
   display: flex;
   justify-content: right;
-  gap: 12px;
 }
 
 .button {
