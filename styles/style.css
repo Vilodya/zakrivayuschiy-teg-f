@@ -57,6 +57,7 @@
   font-size: clamp(3.0625rem, 1.9087rem + 4.9231vw, 4.0625rem);
   line-height: 100%;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .header__title {
